@@ -25,4 +25,6 @@ padding-top: 30px;
 }
 .d-flex{
     background: linear-gradient(90deg, #CFA2E8, #637FEA);
+    padding: 2px 2px;
+    border-radius: 23px;
 }
