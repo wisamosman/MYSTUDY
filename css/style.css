@@ -115,8 +115,12 @@ color: #AA68EA;
 .r1{
     background-color: #F5F6FF;
     padding: 10px 20px;
+    margin-top: 50px;
 }
 .r3{
     padding: 10px 20px;
     background-color: #ECEDF5;
+}
+.r2{
+    font-weight: 700;
 }
