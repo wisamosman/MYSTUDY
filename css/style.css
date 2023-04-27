@@ -85,10 +85,11 @@ color: #AA68EA;
 .w4{
     padding: 10px 20px;
     background-color: #2AC99C;
+    border-radius: 20px;
 }
 .w5{
     color: white;
-    font-weight: 600;
+    font-weight: 400;
 }
 .w6{
     color: white;
