@@ -43,7 +43,7 @@ color: #AA68EA;
 .q8{
     background-color: #4D5CEF;
     padding: 10px 20px;
-    border-right: 2px solid white;
+    border-right: 1px solid #DACFFC;
     border-bottom-left-radius: 20px;
     border-top-left-radius: 20px;
 }
@@ -61,7 +61,7 @@ color: #AA68EA;
 .q12{
     background-color: #4D5CEF;
     padding: 10px 20px;
-    border-right: 2px solid white; 
+    border-right: 1px solid #DACFFC; 
 }
 .q13{
     background-color: #4D5CEF;
