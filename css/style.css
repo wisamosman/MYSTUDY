@@ -70,3 +70,9 @@ color: #AA68EA;
     border-bottom-right-radius: 20px;
     border-top-right-radius: 20px;
 }
+.w1{
+    color: #AA68EA;
+    font-weight: 600;
+    padding: 7px 28px;
+    background-color: #F6EBFC;
+}
