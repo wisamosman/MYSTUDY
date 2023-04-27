@@ -44,6 +44,8 @@ color: #AA68EA;
     background-color: #4D5CEF;
     padding: 10px 20px;
     border-right: 2px solid white;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
 }
 .q10{
     color: white;
@@ -55,4 +57,16 @@ color: #AA68EA;
 }
 .q9{
     width: 100px;
+}
+.q12{
+    background-color: #4D5CEF;
+    padding: 10px 20px;
+    border-right: 2px solid white; 
+}
+.q13{
+    background-color: #4D5CEF;
+    padding: 10px 20px;
+    
+    border-bottom-right-radius: 20px;
+    border-top-right-radius: 20px;
 }
