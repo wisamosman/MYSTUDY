@@ -7,4 +7,8 @@ padding-top: 30px;
 }
 .nav-link{
     font-size: 20px;
+    font-weight: 600;
+}
+.navbar-nav{
+    margin-left: 150px;
 }
